@@ -10,7 +10,7 @@ author:
 description: Für Web-Erlebnisse, die ein hohes Maß an Anpassung erfordern, hat AMP amp-script entwickelt, eine Komponente, die die Verwendung von beliebigem JavaScript auf Ihrer AMP-Seite ermöglicht, ohne die Leistung der Seite zu beeinträchtigen.
 ---
 
-In this tutorial, you'll learn how to use `<amp-script>`, a component that allows developers to write custom JavaScript in AMP. You'll use this to build a widget that checks the contents of a password input field, only allowing it to be submitted when certain requirements are met. AMP already provides this functionality with `<amp-form>`, but `<amp-script>` will empower you to create a custom experience.
+In this tutorial, you'll learn how to use `<amp-script>`, a component that allows developers to write custom JavaScript in AMP. You'll use this to build a widget that checks the contents of a password input field, only allowing it to be submitted when certain requirements are met. AMP already provides this functionality with `<amp-form>`, but `<amp-script>` will empower you to create a custom experience.1
 
 ## In this tutorial, you'll learn how to use `<amp-script>`, a component that allows developers to write custom JavaScript in AMP. You'll use this to build a widget that checks the contents of a password input field, only allowing it to be submitted when certain requirements are met. AMP already provides this functionality with `<amp-form>`, but `<amp-script>` will empower you to create a custom experience.
 
